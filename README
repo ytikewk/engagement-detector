@@ -1,0 +1,6 @@
+This repo contain the engagement detector source code. Those code can be used as follow:
+1. using OpenFace_batch and OpenPose_batch to process all the video data using OF and OP
+2. getLabel is to get the dic path for rach video
+3. getData is to process the data form OP and OF
+4. model and explaination contain the model design and the explaintion method design
+5. Visualization dir including the result visualization part.
