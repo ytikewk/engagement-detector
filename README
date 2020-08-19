@@ -4,3 +4,4 @@ This repo contain the engagement detector source code. Those code can be used as
 3. getData is to process the data form OP and OF
 4. model and explaination contain the model design and the explaintion method design
 5. Visualization dir including the result visualization part.
+6. Demo dir is a small demo about the explain result of an sample. Cause the full data is too large, here we only provide one precessed data.
